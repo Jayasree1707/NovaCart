@@ -1,7 +1,4 @@
 {
   "name": "novacart",
-  "private": true,
-  "scripts": {
-    "start": "node server/server.js"
-  }
+  "private": true
 }
